@@ -1,6 +1,6 @@
 # Santander_Lightning (This is long after the competition results were declared mainly for my own learnings)
 
-Achieving top 1% like AUC using only vanilla neural network using feature engineering and observation.
+Achieving top 1% like AUC using only vanilla neural network with the help of feature engineering and observation.
 
 ## Feature Engineering
 
